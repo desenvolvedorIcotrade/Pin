@@ -1,7 +1,7 @@
 
 # PINRemoteImage
 
-## Fast, non-deadlocking parallel image downloader and cache for iOS..
+## Fast, non-deadlocking parallel image downloader , and cache for iOS..
 
 [![CocoaPods compatible](https://img.shields.io/cocoapods/v/PINRemoteImage.svg?style=flat)](https://cocoapods.org/pods/PINRemoteImage)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
