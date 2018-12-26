@@ -1,5 +1,5 @@
 
-# PINRemoteImage
+# (PINRemoteImage)
 
 ## Fast, non-deadlocking parallel image downloader , and cache for iOS..
 
