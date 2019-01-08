@@ -43,3 +43,6 @@ imageView.pin_setImage(from: URL(string: "https://pinterest.com/kitten.jpg")!)
 
 
 <img src="/desenvolvedorIcotrade/PINRemoteImage/raw/master/progressive.gif" alt="Progressive JPG with Blur" title="Looks better on device." style="max-width:100%;">
+
+
+<div class="_ub _49 _4f _ud _2y"><div class="_ub _49 _4f _uc _2v" style="width: 262px; height: 392px;"><div style="margin-top: 0px; margin-left: 0px;"><div class="_ub _49 _4f _uc _2v" style="width: 262px; height: 392px;"><div aria-label="Efeito alucinante: 17 GIFs 3D que não usam nada além de linhas brancas" class="_u6 _u4 _4f" role="img" style="background-color: rgb(4, 4, 4); background-image: url(&quot;https://i.pinimg.com/originals/1a/d5/cf/1ad5cf54289cd82df6c0b8b8e844280a.gif&quot;);"></div></div></div></div><div class="_uf _4h _4l _4m _4k _4j"></div></div>
