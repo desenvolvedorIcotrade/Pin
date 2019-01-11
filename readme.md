@@ -12,16 +12,14 @@
 
 ``
 
-### Download a progressive jpeg and get attractive blurred updates:
-
+### Download a progressive jpeg 
 
 
 <img style="-webkit-user-select: none;cursor: zoom-in;" src="https://raw.githubusercontent.com/desenvolvedorIcotrade/Pin/master/9f5461b119d2926680e8b84f1bc58acb.jpg" width="694" height="390">
-<img style="-webkit-user-select: none;cursor: zoom-out;" src="https://raw.githubusercontent.com/desenvolvedorIcotrade/Pin/master/20375961_832936590205865_8270885345959348600_n.jpg" width="540" height="960">
+<img style="-webkit-user-select: none;cursor: zoom-out;" 
 
 
 
-<img src="/desenvolvedorIcotrade/PINRemoteImage/raw/master/progressive.gif" alt="Progressive JPG with Blur" title="Looks better on device." style="max-width:100%;">
 
 <img class="CSS_LIGHTBOX_SCALED_IMAGE_IMG" src="https://1.bp.blogspot.com/-8T8eEFxap_Y/XDdplIBfF0I/AAAAAAAAFRs/nSMuYHm426AXzEFvtu-m-ERPcxfE2EXggCLcBGAs/s1600/Capturar.PNG" style="width: 758px; height: 344px;">
 
